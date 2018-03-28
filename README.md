@@ -1,4 +1,4 @@
-# Angular Upload
+# AngularJS Upload
 Upload files using FormData, fall back to iframe upload when FormData isn't supported
 
  - Works in all browsers
